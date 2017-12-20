@@ -1,0 +1,14 @@
+Copyright information about ui graphics files
+
+License is CC-BY-SA 3.0 if not otherwise indicated
+
+- browser/*.png and misc/generic.*.png
+  CC-BY 2.5 (http://www.famfamfam.com/lab/icons/silk/)
+
+- start/start.background.jpg
+  Creator / CC-BY-SA 3.0
+
+- all others
+  Trilarion
+  
+

@@ -1,0 +1,23 @@
+Copyright information about scenario graphics files
+
+License is CC-BY-SA 3.0 if not otherwise indicated
+
+- Veneteaou
+  - resources/resource.*.png
+  - terrains/terrain.*.png
+
+
+- Trapets
+  - units/*.png
+
+- Trilarion
+  - river.overlays.png
+
+
+- city.png
+  Amplio tileset (http://download.gna.org/freeciv/contrib/tilesets/amplio/)
+  GPLv2+
+
+- garrison.png
+  Magic Shield by Peileppe (http://openclipart.org/detail/22121/magic-shield-by-peileppe)
+  Public Domain

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+ <entry key="general.version" value="0.1.4 (demo)"/>
+ <entry key="graphics.mode.fullscreen" value="true"/>
+ <entry key="graphics.mainscreen.controlsright" value="true"/>
+ <entry key="music.mute" value="false"/>
+</Properties>

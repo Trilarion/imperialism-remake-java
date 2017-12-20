@@ -1,0 +1,22 @@
+# main
+/main/nbproject/private/
+/main/dist/
+/main/build/
+
+# side tile test
+/side/tile test/nbproject/private/
+/side/tile test/build/
+/side/tile test/dist/
+
+# side tools
+/side/tools/nbproject/private/
+/side/tools/dist/
+/side/tools/build/
+
+# side vorbis
+/side/vorbis/nbproject/private/
+/side/vorbis/dist/
+/side/vorbis/build/
+
+# remake itself
+/main/log

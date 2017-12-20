@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tile-Graphics tile-width="80" tile-height="80">
+ <Terrain-Tiles base="terrains">
+  <Tile id="1" inner="terrain.sea.png" color="80a0e0"/>
+  <Tile id="2" inner="terrain.plains.png" color="d0f0a0"/>
+  <Tile id="3" inner="terrain.hills.inner.png" outer="terrain.hills.outer.png" color="604020"/>
+  <Tile id="4" inner="terrain.mountains.inner.png" outer="terrain.mountains.outer.png" color="909090"/>
+  <Tile id="5" inner="terrain.tundra.inner.png" outer="terrain.tundra.outer.png" color="c0c0c0"/>
+  <Tile id="6" inner="terrain.swamp.inner.png" outer="terrain.swamp.outer.png" color="309030"/>
+  <Tile id="7" inner="terrain.desert.inner.png" outer="terrain.desert.outer.png" color="c0c0a0"/>
+ </Terrain-Tiles>
+ <River-Overlays location="river.overlays.png"/>
+ <Resource-Overlays base="resources">
+  <Overlay id="1" inner="resource.grain.inner.png" outer="resource.grain.outer.png"/>
+  <Overlay id="2" inner="resource.orchard.inner.png" outer="resource.orchard.outer.png"/>
+  <Overlay id="3" inner="resource.buffalo.inner.png" outer="resource.buffalo.outer.png"/>
+  <Overlay id="4" inner="resource.cotton.inner.png" outer="resource.cotton.outer.png"/>
+  <Overlay id="5" inner="resource.sheep.inner.png" outer="resource.sheep.outer.png"/>
+  <Overlay id="6" inner="resource.forest.inner.png" outer="resource.forest.outer.png"/>
+  <Overlay id="7" inner="resource.scrubforest.inner.png" outer="resource.scrubforest.outer.png"/>
+  <Overlay id="8" inner="resource.oil.inner.png" outer="resource.oil.outer.png"/>
+  <Overlay id="9" inner="resource.coal.png"/>
+  <Overlay id="10" inner="resource.ore.png"/>
+  <Overlay id="11" inner="resource.horse.png"/>
+ </Resource-Overlays>
+ <Miscellaneous-Overlays>
+  <Overlay id="city" location="city.png"/>
+  <Overlay id="garrison" location="garrison.png"/>
+ </Miscellaneous-Overlays>
+ <Unit-Overlays base="units">
+  <Unit type="infantry" action="stand" location="infantry.stand.png"/>
+  <Unit type="infantry" action="shoot" location="infantry.shoot.png"/>
+  <Unit type="infantry" action="charge" location="infantry.charge.png"/>
+ </Unit-Overlays>
+</Tile-Graphics>

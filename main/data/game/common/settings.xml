@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+ <Terrains default-id="1">
+  <Terrain id="1" name="Sea"/>
+  <Terrain id="2" name="Plains"/>
+  <Terrain id="3" name="Hills"/>
+  <Terrain id="4" name="Mountains"/>
+  <Terrain id="5" name="Tundra"/>
+  <Terrain id="6" name="Swamp"/>
+  <Terrain id="7" name="Desert"/>
+ </Terrains>
+ <Resources>
+  <Resource id="1" name="Grain" visible="true"/>
+  <Resource id="2" name="Orchard" visible="true"/>
+  <Resource id="3" name="Buffalo" visible="true"/>
+  <Resource id="4" name="Cotton" visible="true"/>
+  <Resource id="5" name="Sheep" visible="true"/>
+  <Resource id="6" name="Forest" visible="true"/>
+  <Resource id="7" name="Scrub forest" visible="true"/>
+  <Resource id="8" name="Oil" visible="false"/>
+  <Resource id="9" name="Coal" visible="false"/>
+  <Resource id="10" name="Ore" visible="false"/>
+ </Resources>
+</Settings>

@@ -1,0 +1,5 @@
+Copyright information for font files
+
+Font: Lora by Cyreal
+  http://www.google.com/webfonts/specimen/Lora
+  SIL Open Font License, 1.1
